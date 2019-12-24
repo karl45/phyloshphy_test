@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Владелец\\.nuget\\packages\\": {},
+    "C:\\Users\\stazher05\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владелец\\Desktop\\test_phylosophy\\test_phylosophy\\test_phylosophy.csproj",
+      "projectUniqueName": "C:\\Users\\stazher05\\Desktop\\testend\\phyloshphy_test\\test_phylosophy\\test_phylosophy\\test_phylosophy.csproj",
       "projectName": "test_phylosophy",
-      "projectPath": "C:\\Users\\Владелец\\Desktop\\test_phylosophy\\test_phylosophy\\test_phylosophy.csproj",
-      "packagesPath": "C:\\Users\\Владелец\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владелец\\Desktop\\test_phylosophy\\test_phylosophy\\obj\\",
+      "projectPath": "C:\\Users\\stazher05\\Desktop\\testend\\phyloshphy_test\\test_phylosophy\\test_phylosophy\\test_phylosophy.csproj",
+      "packagesPath": "C:\\Users\\stazher05\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stazher05\\Desktop\\testend\\phyloshphy_test\\test_phylosophy\\test_phylosophy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Владелец\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stazher05\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

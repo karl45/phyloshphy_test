@@ -1163,9 +1163,9 @@ o	Aristotle
 o	Thales 
 o	Plotinus 
 195.Geocentric perspective Claudius Ptolemy …
-•	The earth is the center of the universe 
+o	The earth is the center of the universe 
 o	God 
-o	The sun is the center of the universe
+•	The sun is the center of the universe
 o	There is no rational ground for moral judgment
 o	The universe does not exist
 196.Vedanta is an Indian school of …:
@@ -1210,9 +1210,195 @@ o	G.Leibniz
 o	Berkeley 
 •	R.Descartes
 o	T.Hobbes
-203.Who is the author of a doctrine “Foundations of the Science of Knowledge” (Wissenschaftslehre)?
+203.Who is the author of a doctrine "Foundations of the Science of Knowledge" (Wissenschaftslehre)?
 o	Engels
 o	Machiavelli 
 •	Fichte
 o	Rousseau
 o	Lenin
+204.The next teachings made a great importance in the development of the philosophy of Ancient China.
+•	Legists, Taoism, Confucians
+o	Moism, Buddhism, Legists
+o	Jainism, Taoism 
+o	Lamaism, Taoism
+o	Names, Moism, Lamaism
+205.Main Renaissance figure who developed a new theory of law?
+o	L.Valla
+o	N.Machiavelli 
+o	F.Petrarch
+o	D.Alighieri
+•	H.Grotius
+206.Who was called as Philosopher of Arabs?
+o	Ibn Sina
+o	Ibn Rushd
+•	Al Kindi
+o	Al Farabi
+o	Al Ghazali
+207.Who said that: "Man is a measure of all things"?
+o	Parmenides 
+o	Anaximenes
+o	Zeno of Elea
+•	Protagoras
+o	Thales
+208.Socrates’s main interest in philosophy was
+•	Ethics, Social Philosophy 
+o	Hermeneutics, Ontology
+o	Bioethics, Physics
+o	Hedonism, Epicurianism
+o	Substancialism, Pluralism
+209.According to Kierkegaard, the third existential sphere is
+o	Phenomenological sphere.
+o	Rational sphere.
+o	Critical sphere
+•	Religious sphere
+o	Individual sphere
+210.In his "Critique of Practical Reason" Kant considered the ideas of…
+o	Mind and cognition
+•	Hypothetical and Categorical imperatives
+o	Aesthetics and Beauty
+o	Power and authority
+o	Perception and contemplation
+211."Act only on that maxim through which you can at the same time will that become a universal law" is...
+o	the Hegel's Categorical imperative
+•	the Kant's Categorical imperative
+o	the Kant's Hypothetical imperative
+o	the Fichte's Hypothetical imperative
+o	the Hegel's Hypothetical imperative
+212.In his "Critique of Practical Reason" Kant considered the ideas of…
+o	Mind and cognition
+•	Hypothetical and Categorical imperatives
+o	Aesthetics and Beauty
+o	Power and authority
+o	Perception and contemplation
+213.The basic problem, as Kant formulated it in his "Critique of Pure Reason", is to determine:
+o	How is Aesthetics possible?
+o	How is Theology possible?
+o	How is Religion possible?
+o	How is Biology possible?
+•	How is a priory synthetic judgment possible?
+214.Which method Descartes used to start his philosophy?
+o	Thinking
+o	Experience
+o	Analysis
+o	Induction
+•	Deduction
+215.Who was the author of second and third volumes of “Capital”
+o	Kant
+•	Engels
+o	Marx
+o	Dewey
+o	Hegel
+216.What European notion corresponds to the concept of Tao?
+•	God
+o	Word
+o	Happiness
+o	War
+o	Desire
+217.The thinkers of Ancient China who left a large footprint in the history of philosophy
+o	Buddha, Confucius
+o	D.Hume, J.-P.Sartre
+o	Syma Tsyan
+•	Moe Dee, Lao Tzu, Confucius
+o	Protagoras, Moe Dee 
+218.According to Aristotle, the opposition to monarchy is:
+o	Junta
+o	Junta
+o	Oligarchy
+o	Democracy
+•	Tyranny
+219.According to Aristotle, the opposition to aristocracy is:
+o	Tyranny
+o	Tyranny
+o	Junta
+•	Oligarchy
+o	Democracy
+220.The author of  “The Kazakhs”:
+o	Al-Biruni.
+•	Ualikhanov
+o	Al-Khorezmi
+o	Abai
+o	Altynsarin
+221.The author of  “Chinese Turkestan and Dzungaria”:
+o	Al-Biruni.
+o	Al-Khorezmi
+•	Ualikhanov
+o	Abai
+o	Altynsarin
+222.One of the prominent representatives of the older sophists was:
+o	Thales
+o	Pythagorus
+o	Democritus
+o	Seneka
+•	Protagoras
+223.In considering of that problem there emerged nominalism and realism in the Middle Ages:
+o	Faith and reason
+o	God and world
+•	Universals
+o	Learning of God
+o	Learning of man
+224.A teaching which enhanced the emergence of philosophy in Islamic countries:
+•	Kalam
+o	Something mystical
+o	Poetics
+o	Sufism
+o	Hegelianism
+225.Philosophic views of ..... gave the rise to the utopian ideas of the Renaissance:
+o	Dante Alighieri 
+o	Erasmus of Rotterdam
+•	Thomas More
+o	Lorenzo Valla
+o	Francesco Petrarch
+226.The lowest level in Indian society who was not considered as a social caste is…
+o	Brahmans
+o	Kshatriyas 
+•	Untouchables
+o	Vaisya
+o	Sudra
+227.Who was considered to be the first philosopher of Greece?
+o	Socrates
+o	Aristotle 
+o	Cicero
+•	Thales
+o	Epicurus
+228.Who defended ideas of intuitivism in the 19th century?
+•	Henry Bergson
+o	Martin Heidegger
+o	Karl Marx
+o	Plato
+o	Albert Camus
+229.The most characteristic feature of the Early Modern Philosophy:
+o	Pantheism
+•	Knowledge centrism.
+o	Cosmo centrism.
+o	Theo centrism.
+o	Humanism
+230.Who is the author of “On Learned Ignorance”?
+o	Engels
+o	Machiavelli 
+•	Nicolas of Cusa
+o	Rousseau
+o	Lenin
+231.The object of knowledge according to Nicholas of Cuza is:
+o	Cosmos
+o	Method
+o	Ideas which are generated by eidos
+•	God is an absolute Maximum
+o	Nature
+232.According to Leibniz, everything is a monad and monads can be unified into the biggest monad which was named by him as...
+o	Love 
+o	Beauty 
+•	Godhead
+o	Labour 
+o	Knowledge 
+233.Arthur Schopenhauer stated that ... prevails over everything
+o	Love 
+•	The Will
+o	Godhead 
+o	Wisdom 
+o	Politics
+234.In considering of that problem there emerged nominalism and realism in the Middle Ages:
+o	Faith and reason
+o	God and world
+•	Universals
+o	Learning of God
+o	Learning of man

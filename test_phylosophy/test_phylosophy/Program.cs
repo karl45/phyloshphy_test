@@ -14,9 +14,7 @@ namespace test_phylosophy
     {
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllLines(@"C:\Users\stazher05\Desktop\test_phylosophy\test_phylosophy\test_final.txt");
-            string[] lines2 = File.ReadAllLines(@"C:\Users\stazher05\Desktop\test_phylosophy\test_phylosophy\test.txt");
-            List<Block_Question> block_Questions = new List<Block_Question>();
+            string[] lines = File.ReadAllLines(@"C:\Users\stazher05\Desktop\testend\phyloshphy_test\test_phylosophy\test_phylosophy\test_final.txt");            List<Block_Question> block_Questions = new List<Block_Question>();
             Block_Question block_Question = new Block_Question();
             block_Question.Answers = new List<string>();
             int code = 0;
@@ -61,7 +59,7 @@ namespace test_phylosophy
             int i = 0;
            while(i < 191)
             {
-                int rand = random.Next(0, 203);
+                int rand = random.Next(0, 233);
                 if (!order.Contains(rand)) {
                     order.Add(rand);
                     i++;
